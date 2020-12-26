@@ -6,3 +6,7 @@ puts a
 puts b
 puts c
 puts Math.sqrt(c)
+puts a + b
+puts a - b
+puts a * b
+puts a / b
